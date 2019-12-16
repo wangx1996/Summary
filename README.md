@@ -18,3 +18,9 @@
 
 ### 投影
 ![Image text](https://github.com/WAN96/summary-/blob/master/img/projection.gif)
+
+# 二、检测与跟踪
+
+### 传统方法
+
+![Image text](https://github.com/WAN96/summary-/blob/master/img/tracking2.gif)
