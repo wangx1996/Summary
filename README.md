@@ -19,6 +19,10 @@
 ### 投影
 ![Image text](https://github.com/WAN96/Summary/blob/master/img/projection.gif)
 
+#数据标注工具V2.0
+![Image text](https://github.com/WAN96/Summary/blob/master/img/projection.gif)
+
+
 # 二、检测与跟踪
 
 ### 传统方法
