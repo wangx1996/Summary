@@ -23,6 +23,10 @@
 
 ![Image text](https://github.com/WAN96/Summary/blob/master/img/tool.png)
 
+![Image text](https://github.com/WAN96/Summary/blob/master/img/view.png)
+
+![Image text](https://github.com/WAN96/Summary/blob/master/img/annotation.png)
+
 
 # 二、检测与跟踪
 
