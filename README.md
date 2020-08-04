@@ -37,4 +37,4 @@
 
 ### Vehicle detection based on Faster RCNN
 
-![Image text](https://github.com/WAN96/Summary/blob/master/img/Fdetection.gif）
+![Image text](https://github.com/WAN96/Summary/blob/master/img/Fdetection.gif)
